@@ -9,7 +9,7 @@ Migration is a Team Support
 3 - Technology;
 
 # Team
-Hugo Marques / Paul Byrd / Sergio  / Ed Knox / Nathan
+Hugo Marques / Paul Byrd  / Ed Knox / Nathan Swift / Jitendra Singh
 
 ## Step 1: Planning
 * 1.1 - Let's start the session planning the for the migration.
@@ -19,7 +19,7 @@ Please find below the Migration in few steps:
   <img src="images/migration001.png" alt="drawing" width="600"/>
 </p>
 
-## Tools for the Migration
+## Step 2: Tools for the Migration
 * Azure Migration for the Assess;
 * Azure Site Recovery for the Migration - Reference: https://docs.microsoft.com/en-us/azure/site-recovery/migrate-tutorial-windows-server-2008
 * Azure Database Migration Service for SQL Server migration
