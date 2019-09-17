@@ -19,7 +19,30 @@ Please find below the Migration in few steps:
   <img src="images/migration001.png" alt="drawing" width="600"/>
 </p>
 
+# Poject breakdown:
+AD - Need Domain Controller;
+Network - 
+Windows Server 2008 r2 - 
+Microsoft SQL Server 2008 R2 to Microsoft Azure - to Azure SQL DB
+Application - Keep the same
+
+* Tools and technologies that you will use to migrate an existing set of web applications from on-premises to Azure:
+ - Azure Migrate;
+ - Azure Site Recovery;
+ - Azure Data Migration;
+ - NSG for Segmentation;
+
+* Tools and technologies that you will use to migrate existing identities from on-premises to Azure:
+- AD - Need Domain Controller;
+
+* Tools and technologies that you will use to assess your existing environment and determine its baseline cost in Azure:
+ - Azure Migrate;
+
+* Design and architect a new baseline environment in Azure, including identity, networking, compute, and security:
+ - 
+
 ## Step 2: Tools for the Migration
 * Azure Migration for the Assess;
 * Azure Site Recovery for the Migration - Reference: https://docs.microsoft.com/en-us/azure/site-recovery/migrate-tutorial-windows-server-2008
 * Azure Database Migration Service for SQL Server migration
+
