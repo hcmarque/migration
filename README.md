@@ -59,6 +59,8 @@ To check the sync - syncronization service manageron CMAD1
 Provisoining a VPN GW @ On Premise RG;
 In order to include the Default GW on VMs - Scope options like default gateway (Router option 03)
 
+# Step 5: Migration
+Check the FW ports and rules before to migrate to be sure that you will be access.
 
 
 
