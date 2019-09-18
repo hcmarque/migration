@@ -51,6 +51,15 @@ Active Director Domains and Trust (On the WInd Server) and use the Alternative U
 Make Primary on Custom domain;
 check that *Manipulate the default domain; - from Sergio*
 Run the syncronization; (azure credentials and local credentials) - select the specify custom sync groups
+To check the sync - syncronization service manageron CMAD1
+
+
+## Step 4: VPN Connection
+
+Provisoining a VPN GW @ On Premise RG;
+In order to include the Default GW on VMs - Scope options like default gateway (Router option 03)
+
+
 
 
 
