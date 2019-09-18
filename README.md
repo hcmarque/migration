@@ -45,6 +45,12 @@ Please find below the Migration in few steps:
 On the AD Connect:
 Install the AD COnnect (azure active director download)
 Must to have the .NET FRamework 4.5.1 or later and Power Shell 3.0  (PSVersionTable)
+Add Custom Domain name (contosomortage18.com)
+App Service Certificate to select your plan
+Active Director Domains and Trust (On the WInd Server) and use the Alternative UPN sufixes)
+Make Primary on Custom domain;
+check that *Manipulate the default domain; - from Sergio*
+Run the syncronization; (azure credentials and local credentials) - select the specify custom sync groups
 
 
 
